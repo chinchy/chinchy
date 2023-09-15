@@ -23,11 +23,11 @@ technologies like the Python framework <b>Sanic</b> and know more about <b>DevOp
       <img align="center" src="https://raw.githubusercontent.com/chinchy/chinchy/main/email.png" alt="EMail icon" height="20" width="20" /> 
       ipetrov.developer@gmail.com
     </a></br>
-    <a href="www.linkedin.com/in/ipetrov-developer" target="blank">
+    <a href="https://www.linkedin.com/in/ipetrov-developer" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/chinchy/chinchy/main/linkedin.png" alt="LinkedIn Icon" height="20" width="20" /> 
       www.linkedin.com/in/ipetrov-developer
     </a></br>
-    <a href="www.instagram.com/pruilya" target="blank">
+    <a href="https://www.instagram.com/pruilya" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Icon" height="30" width="20" /> 
       www.instagram.com/pruilya
     </a>
