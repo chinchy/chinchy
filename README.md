@@ -4,9 +4,9 @@ I am a Python backend developer with <b>5+</b> years of experience in web-orient
 building Lego when I can design systems with big blocks or write code with small ones.
 
 <ul>
-  <li>I increased document production speed by <b>50%</b>b> with <b>Flask</b>b> and decreased <b>PostgreSQL</b>b> usage rate by 2+ times
+  <li>I increased document production speed by <b>50%</b> with <b>Flask</b> and decreased <b>PostgreSQL</b> usage rate by 2+ times
 with event-driven architecture and Redis.</li>
-  <li>As the <b>lead</b>b>, managed a crew with 3 members, gathered requirements, designed and implemented features with
+  <li>As the <b>lead</b>, managed a crew with 3 members, gathered requirements, designed and implemented features with
 <b>FastAPI</b>, <b>Kafka</b>, and <b>ClickHouse</b>.</li>
   <li>Thanks to the backend developed with Selenium and SOAP protocol <b>on my own</b> for 3 months, the project
 was launched in time.</li>
